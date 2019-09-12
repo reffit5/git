@@ -1,3 +1,5 @@
 this is a story 
 -kam
 -reffitt
+
+and here is a new line.
